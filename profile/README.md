@@ -1,8 +1,8 @@
-# <div style="display: flex; align-items: center; gap: 10px;"><img src="../images/logo.png" width="50" /> Dreamrunner Labs</div>
+# <div style="display: flex; align-items: center; gap: 10px;"><img src="images/logo.png" width="50" /> Dreamrunner Labs</div>
 
 ### *Helping the world dream bigger.* — Learn more @ [dreamrunnerlabs.com](https://dreamrunnerlabs.com)
 
-![Fire Mountain](../images/firemountain.png "Fire Mountain")
+![Fire Mountain](images/firemountain.png "Fire Mountain")
 
 Dreamrunner Labs is at the forefront of merging imagination with technology, crafting the future of development and design software. Our team, a dynamic blend of technologists and creatives, is dedicated to harnessing the potential of AI to revolutionize all sorts of creative processes. With a love for games, and armed with what we believe to be the most powerful suite of AI-powered tools, we aim to redefine the landscape of game development and beyond.
 
@@ -17,4 +17,4 @@ The advent of AI is not just an evolution; it's a revolution that demands a new 
 
 Join us on this journey as we dream bigger, pushing the boundaries of creativity and innovation to build the tools of tomorrow, today.
 
-![Fire Mountain](../images/oninoken.png "Fire Mountain")
+![Fire Mountain](images/oninoken.png "Fire Mountain")
