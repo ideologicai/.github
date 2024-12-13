@@ -1,4 +1,4 @@
-# <div style="display: flex; align-items: center; gap: 10px;"><img src="images/logo.png" width="50" /> ｉｄｅｏｌｏｇｉｃ　</div>
+# <div style="display: flex; align-items: center; gap: 10px;">ｉｄｅｏｌｏｇｉｃ　</div>
 
 ### *Simplifying tomorrow.* — Learn more @ [dreamrunnerlabs.com](https://dreamrunnerlabs.com)
 
